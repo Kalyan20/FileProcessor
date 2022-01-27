@@ -52,7 +52,7 @@ public class Main {
                     String firstSplitEquation;
                     String secondSplitEquation;
                     String operation;
-                    // split equation string capture sepearated equations and operation
+                    // split equation string capture separated equations and operation
                     String[] equationSplit = equation.split(" ");
                     firstSplitEquation =  equationSplit[0];
                     operation = equationSplit[1];
